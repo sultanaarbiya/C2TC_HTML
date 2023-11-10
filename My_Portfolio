@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+</head>
+<body>
+    <h1>ARBIYA SULTANA</h1>
+    <hr>
+    <img src="arbiyaphoto.jpeg" alt="AS" height="100px" width="100px">
+    <hr>
+    <h2>Education</h2>
+
+    <ul>
+        <li>10th class : 80%</li>
+        <li>12th class : 78%</li>
+         <li>BE in ECE : 8.7 cgpa</li>   
+     </ul>
+      <hr>
+     <h2>Skills</h2>
+
+     <ul>
+        <li>C programming</li>
+        <li>C++</li>
+        <li>Basics of python</li>
+        <li>Microcontroller</li>
+        <li>Linux os</li>
+        <li>HTML</li>
+     </ul>
+     <hr>
+     <h2>Acheivements</h2>
+     <ul>
+        <li>2 Merit medals</li>
+     </ul>
+     <hr>
+    
+         <h2>Hobbies</h2>
+     <ul>
+        <li>Reading Books</li>
+        <li>learning new things</li>
+        <li>travelling</li>
+     </ul>
+     <hr>
+     <h2>Contact Me</h2>
+      
+     <ul>
+        <li>Email : arbiyasultanaece003@gmail.com</li>
+        <li><a href="www.linkedin.com/in/arbiya-sultana-425624256">Linkedin</a></li>
+     </ol>
+
+     <p>Made with &hearts; by myself</p>
+
+
+</body>
+</html>
